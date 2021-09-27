@@ -1,0 +1,21 @@
+h1{
+    color: rgb(226, 43, 43) ;
+    background-color: rgb(42, 130, 165, 0.4);
+    padding: 10px;
+    border-radius: 30px; 
+    width: 70%;   
+}
+ 
+body{
+  background: url(asset/images/bg.jpg);
+
+}
+
+div{
+    background-color: rgb(255, 255, 255, 0.7);
+    width: 60%;
+    margin-left: 23%;
+    margin-top: 2%;
+    border-radius: 30px;
+    padding: 10px;
+}
